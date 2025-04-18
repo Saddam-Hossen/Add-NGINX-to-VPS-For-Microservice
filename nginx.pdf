@@ -1,0 +1,32 @@
+**NGINX** (pronounced like “engine-x”) stands for **"Engine X"**, and it's a **high-performance web server** and **reverse proxy** server.
+
+---
+
+### 🔹 **What does NGINX do?**
+NGINX is primarily used for:
+- **Serving web pages** (like HTML, CSS, JavaScript)
+- **Reverse proxying** requests to backend servers (Java, Node.js, etc.)
+- **Load balancing**
+- **Handling HTTPS (SSL termination)**
+- **Caching**
+- **Streaming media**
+- **Acting as an API gateway**
+
+---
+
+### 🔹 **Quick History**
+- Developed by **Igor Sysoev** in 2004.
+- Built to solve the **C10K problem** (handling 10,000+ simultaneous connections efficiently).
+- Open-source with a commercial version called **NGINX Plus**.
+
+---
+
+### 🔹 **What does "Engine X" imply?**
+It refers to:
+- **Speed** and **power** — like a race car engine.
+- **Scalability** — designed for **performance at scale**.
+- **Modern architecture** — asynchronous, event-driven, non-blocking.
+
+---
+
+Let me know if you want a diagram or simple example configuration too!

@@ -42,7 +42,7 @@ You already have a configuration file named `snvn.conf`. You need to ensure that
 ```nginx
 server {
     listen 3082;
-    server_name 159.89.172.251;  # Use your actual server IP or domain
+    server_name 159.89.172.251;  # Use your actual server IP or domain  (server_name attendance.deepseahost.com;)
 
     # Proxy requests for /api/developer/**, /api/user/**, /api/role/**
     location /api/developer/ {
